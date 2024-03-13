@@ -1,9 +1,9 @@
 /* empty css                          */
 import { c as createAstro, d as createComponent, r as renderTemplate, g as renderComponent, m as maybeRenderHead } from '../astro_DzfhlQC2.mjs';
 import 'kleur/colors';
-import { $ as $$BlogPost } from './__Bw6aSxhf.mjs';
+import { $ as $$BlogPost } from './__B9HpJfwT.mjs';
 
-const $$Astro = createAstro("https://example.com");
+const $$Astro = createAstro("https://astro-blog-uspekhi.netlify.app/");
 const $$About = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$About;

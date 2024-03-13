@@ -1,5 +1,5 @@
 import { _ as __astro_tag_component__, w as Fragment, v as createVNode } from './astro_DzfhlQC2.mjs';
-import { $ as $$Image } from './pages/generic_BE0CBwm8.mjs';
+import { $ as $$Image } from './pages/generic_BMHMaMyd.mjs';
 import 'clsx';
 
 const frontmatter = {

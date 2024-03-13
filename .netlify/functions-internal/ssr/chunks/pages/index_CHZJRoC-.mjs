@@ -1,11 +1,11 @@
 /* empty css                          */
 import { c as createAstro, d as createComponent, r as renderTemplate, g as renderComponent, h as renderHead, e as addAttribute, m as maybeRenderHead } from '../astro_DzfhlQC2.mjs';
 import 'kleur/colors';
-import { g as getCollection, a as $$FormattedDate, b as $$BaseHead, c as $$Header, d as $$Footer, S as SITE_TITLE, e as SITE_DESCRIPTION, $ as $$BlogPost } from './__Bw6aSxhf.mjs';
+import { g as getCollection, a as $$FormattedDate, b as $$BaseHead, c as $$Header, d as $$Footer, S as SITE_TITLE, e as SITE_DESCRIPTION, $ as $$BlogPost } from './__B9HpJfwT.mjs';
 import 'clsx';
 /* empty css                          */
 
-const $$Astro$2 = createAstro("https://example.com");
+const $$Astro$2 = createAstro("https://astro-blog-uspekhi.netlify.app/");
 const $$Index$1 = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$2, $$props, $$slots);
   Astro2.self = $$Index$1;
@@ -25,7 +25,7 @@ const index$1 = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
 	url: $$url$1
 }, Symbol.toStringTag, { value: 'Module' }));
 
-const $$Astro$1 = createAstro("https://example.com");
+const $$Astro$1 = createAstro("https://astro-blog-uspekhi.netlify.app/");
 const $$ViewTransitions = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$ViewTransitions;
@@ -33,7 +33,7 @@ const $$ViewTransitions = createComponent(async ($$result, $$props, $$slots) => 
   return renderTemplate`<meta name="astro-view-transitions-enabled" content="true"><meta name="astro-view-transitions-fallback"${addAttribute(fallback, "content")}>`;
 }, "C:/Users/User/Documents/astro-blog-latest/node_modules/astro/components/ViewTransitions.astro", void 0);
 
-const $$Astro = createAstro("https://example.com");
+const $$Astro = createAstro("https://astro-blog-uspekhi.netlify.app/");
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Index;

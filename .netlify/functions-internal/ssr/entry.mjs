@@ -1,16 +1,16 @@
 import { renderers } from './renderers.mjs';
-import { manifest } from './manifest_D-1c0zRD.mjs';
+import { manifest } from './manifest_BPM5qWuH.mjs';
 import * as serverEntrypointModule from '@astrojs/netlify/ssr-function.js';
 import { onRequest } from './_noop-middleware.mjs';
 
-const _page0 = () => import('./chunks/generic_DpIAxKYG.mjs');
-const _page1 = () => import('./chunks/about_DWcIuet_.mjs');
-const _page2 = () => import('./chunks/index_CnIXNHDj.mjs');
-const _page3 = () => import('./chunks/_.._Ci0z5mpg.mjs');
-const _page4 = () => import('./chunks/contact_CSaImCTx.mjs');
-const _page5 = () => import('./chunks/portfolio_DFe_Z-WZ.mjs');
-const _page6 = () => import('./chunks/rss_BTr6oW8p.mjs');
-const _page7 = () => import('./chunks/index_DpjGu9-y.mjs');
+const _page0 = () => import('./chunks/generic_CRtj569v.mjs');
+const _page1 = () => import('./chunks/about_D-kYz8IA.mjs');
+const _page2 = () => import('./chunks/index_CUFptwsh.mjs');
+const _page3 = () => import('./chunks/_.._BCURqPAM.mjs');
+const _page4 = () => import('./chunks/contact_DdndYBZ7.mjs');
+const _page5 = () => import('./chunks/portfolio_Dlj_V0Y-.mjs');
+const _page6 = () => import('./chunks/rss_DLdP7uzh.mjs');
+const _page7 = () => import('./chunks/index_KwCK4aFl.mjs');
 const pageMap = new Map([
     ["node_modules/astro/dist/assets/endpoint/generic.js", _page0],
     ["src/pages/about.astro", _page1],
@@ -28,7 +28,7 @@ const _manifest = Object.assign(manifest, {
     middleware: onRequest
 });
 const _args = {
-    "middlewareSecret": "b118aa8a-0481-4cf4-8bbf-ff8a4156c2e2"
+    "middlewareSecret": "258a3196-3b2a-42b1-9f8e-cdd2c1968e86"
 };
 const _exports = serverEntrypointModule.createExports(_manifest, _args);
 const __astrojsSsrVirtualEntry = _exports.default;

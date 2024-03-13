@@ -1,11 +1,11 @@
 /* empty css                          */
 import { c as createAstro, d as createComponent, r as renderTemplate, m as maybeRenderHead, f as renderSlot, g as renderComponent } from '../astro_DzfhlQC2.mjs';
 import 'kleur/colors';
-import { $ as $$BlogPost } from './__Bw6aSxhf.mjs';
+import { $ as $$BlogPost } from './__B9HpJfwT.mjs';
 import 'clsx';
 /* empty css                            */
 
-const $$Astro$1 = createAstro("https://example.com");
+const $$Astro$1 = createAstro("https://astro-blog-uspekhi.netlify.app/");
 const $$Button = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$Button;
@@ -16,7 +16,7 @@ var __freeze = Object.freeze;
 var __defProp = Object.defineProperty;
 var __template = (cooked, raw) => __freeze(__defProp(cooked, "raw", { value: __freeze(raw || cooked.slice()) }));
 var _a;
-const $$Astro = createAstro("https://example.com");
+const $$Astro = createAstro("https://astro-blog-uspekhi.netlify.app/");
 const $$Contact = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Contact;
